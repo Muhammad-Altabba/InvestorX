@@ -1,7 +1,8 @@
 # InvestorX 
 
-> ***Crypto in-Time Investment Collaboration ÐApp***
-Website: InvestorX.io
+> [***Crypto in-Time Investment Collaboration Ethereum ÐApp***](http://InvestorX.io)
+
+![InvestorX Draft Banner](https://lh3.googleusercontent.com/y4O3vbJC8w58IxvmJ9acEV0GWGxCPo61SmrLJXNlZQAcMzNJHuGpLweg8nUNapglj15Dgw8yVbMnbQ)
 
 An Ethereum decentralized application for crypto-investment with decentralized suggestions and elections.
 
