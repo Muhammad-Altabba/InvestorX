@@ -1,4 +1,8 @@
-# InvestorX 
+# I updated the smart contracts, developed a UI with Angular and moved the project to: https://github.com/apper-tech/investorX
+
+---
+
+# InvestorX
 
 > [***Crypto in-Time Investment Collaboration Ethereum ÐApp***](http://InvestorX.io)
 
